@@ -1,4 +1,4 @@
-# R Utility to Calculate Curvature of a Parametric Curve
+#Differential Geometry - R Utility to Calculate Curvature of a Parametric Curve
 
 # Installation Instructions
 #### > library(devtools)
