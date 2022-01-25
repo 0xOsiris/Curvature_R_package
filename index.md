@@ -1,4 +1,4 @@
-## Curvature of Parametric Curve R Package
+### Differential Geometry - Curvature of Parametric Curve R Package
 
 ### Installation
 ```markdown
