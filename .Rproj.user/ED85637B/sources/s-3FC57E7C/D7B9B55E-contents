@@ -1,6 +1,0 @@
-Package: CurvatureCalc
-Type: Package
-Author: Leyton Taylor
-Title: Curvature of Parametric Curve Package
-Version: 0.0.1.0
-RoxygenNote: 7.1.2
